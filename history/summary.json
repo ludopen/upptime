@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ludotheque-savenay.fr.ico",
     "slug": "ludotheque-i-pv4",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.63%",
-    "time": 1214,
-    "timeDay": 1633,
-    "timeWeek": 1154,
-    "timeMonth": 1373,
-    "timeYear": 1214,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.66%",
+    "time": 1216,
+    "timeDay": 1962,
+    "timeWeek": 1962,
+    "timeMonth": 1255,
+    "timeYear": 1217,
     "dailyMinutesDown": {
       "2025-04-27": 359,
       "2025-03-28": 184,
@@ -26,8 +26,7 @@
       "2024-09-20": 185,
       "2024-09-10": 117,
       "2024-08-06": 60,
-      "2024-06-04": 192,
-      "2024-05-19": 115
+      "2024-06-04": 192
     }
   },
   {
@@ -36,16 +35,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ludotheque-savenay.fr.ico",
     "slug": "ludotheque-i-pv6",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.64%",
-    "time": 275,
-    "timeDay": 343,
-    "timeWeek": 261,
-    "timeMonth": 287,
-    "timeYear": 275,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.66%",
+    "time": 276,
+    "timeDay": 356,
+    "timeWeek": 356,
+    "timeMonth": 273,
+    "timeYear": 274,
     "dailyMinutesDown": {
       "2025-04-27": 359,
       "2025-03-28": 184,
@@ -57,8 +56,7 @@
       "2024-09-20": 185,
       "2024-09-10": 116,
       "2024-08-06": 59,
-      "2024-06-04": 192,
-      "2024-05-19": 114
+      "2024-06-04": 192
     }
   },
   {
@@ -67,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ludinoxe.fr.ico",
     "slug": "ludinoxe",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.65%",
-    "time": 1307,
-    "timeDay": 1392,
-    "timeWeek": 1292,
-    "timeMonth": 1383,
-    "timeYear": 1307,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.67%",
+    "time": 1309,
+    "timeDay": 1799,
+    "timeWeek": 1799,
+    "timeMonth": 1356,
+    "timeYear": 1318,
     "dailyMinutesDown": {
       "2025-04-27": 358,
       "2025-03-28": 184,
@@ -87,8 +85,7 @@
       "2024-09-20": 184,
       "2024-09-10": 116,
       "2024-08-06": 59,
-      "2024-06-04": 191,
-      "2024-05-19": 114
+      "2024-06-04": 191
     }
   }
 ]
