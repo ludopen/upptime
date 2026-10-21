@@ -4,10 +4,10 @@
     "url": "https://www.ludotheque-savenay.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.ludotheque-savenay.fr.ico",
     "slug": "ludotheque-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.06%",
     "time": 1351,
@@ -27,7 +27,8 @@
       "2026-06-03": 101,
       "2026-06-02": 27,
       "2026-07-20": 591,
-      "2026-07-19": 658
+      "2026-07-19": 658,
+      "2026-10-21": 1
     }
   },
   {
@@ -35,13 +36,13 @@
     "url": "https://www.ludotheque-savenay.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.ludotheque-savenay.fr.ico",
     "slug": "ludotheque-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.06%",
-    "time": 515,
+    "time": 516,
     "timeDay": 727,
     "timeWeek": 904,
     "timeMonth": 939,
@@ -58,7 +59,8 @@
       "2026-06-03": 101,
       "2026-06-02": 22,
       "2026-07-20": 591,
-      "2026-07-19": 653
+      "2026-07-19": 653,
+      "2026-10-21": 0
     }
   },
   {
@@ -66,13 +68,13 @@
     "url": "https://www.ludinoxe.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.ludinoxe.fr.ico",
     "slug": "ludinoxe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.07%",
-    "time": 1338,
+    "time": 1339,
     "timeDay": 1332,
     "timeWeek": 1252,
     "timeMonth": 1330,
@@ -89,7 +91,8 @@
       "2026-06-03": 101,
       "2026-06-02": 18,
       "2026-07-20": 591,
-      "2026-07-19": 648
+      "2026-07-19": 648,
+      "2026-10-21": 0
     }
   }
 ]
