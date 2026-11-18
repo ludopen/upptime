@@ -4,17 +4,17 @@
     "url": "https://www.ludotheque-savenay.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.ludotheque-savenay.fr.ico",
     "slug": "ludotheque-i-pv4",
-    "status": "down",
-    "uptime": "99.32%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.11%",
-    "time": 1393,
-    "timeDay": 1596,
-    "timeWeek": 1379,
-    "timeMonth": 1975,
-    "timeYear": 1408,
+    "status": "up",
+    "uptime": "99.31%",
+    "uptimeDay": "89.46%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.09%",
+    "time": 1392,
+    "timeDay": 1316,
+    "timeWeek": 1329,
+    "timeMonth": 1946,
+    "timeYear": 1407,
     "dailyMinutesDown": {
       "2025-12-19": 70,
       "2026-05-02": 160,
@@ -26,7 +26,7 @@
       "2026-07-20": 591,
       "2026-07-19": 658,
       "2026-10-21": 243,
-      "2026-11-18": 10
+      "2026-11-18": 152
     }
   },
   {
@@ -34,16 +34,16 @@
     "url": "https://www.ludotheque-savenay.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.ludotheque-savenay.fr.ico",
     "slug": "ludotheque-i-pv6",
-    "status": "down",
-    "uptime": "99.32%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.12%",
-    "time": 557,
-    "timeDay": 1357,
-    "timeWeek": 1019,
-    "timeMonth": 998,
+    "status": "up",
+    "uptime": "99.31%",
+    "uptimeDay": "89.80%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.09%",
+    "time": 558,
+    "timeDay": 1035,
+    "timeWeek": 962,
+    "timeMonth": 989,
     "timeYear": 645,
     "dailyMinutesDown": {
       "2025-12-19": 69,
@@ -56,7 +56,7 @@
       "2026-07-20": 591,
       "2026-07-19": 653,
       "2026-10-21": 242,
-      "2026-11-18": 5
+      "2026-11-18": 147
     }
   },
   {
@@ -64,17 +64,17 @@
     "url": "https://www.ludinoxe.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.ludinoxe.fr.ico",
     "slug": "ludinoxe",
-    "status": "down",
-    "uptime": "99.33%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.12%",
+    "status": "up",
+    "uptime": "99.32%",
+    "uptimeDay": "90.13%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.09%",
     "time": 1339,
-    "timeDay": 1674,
-    "timeWeek": 1403,
-    "timeMonth": 1357,
-    "timeYear": 1346,
+    "timeDay": 1293,
+    "timeWeek": 1349,
+    "timeMonth": 1343,
+    "timeYear": 1345,
     "dailyMinutesDown": {
       "2025-12-19": 69,
       "2026-05-02": 159,
@@ -86,7 +86,7 @@
       "2026-07-20": 591,
       "2026-07-19": 648,
       "2026-10-21": 242,
-      "2026-11-18": 0
+      "2026-11-18": 142
     }
   }
 ]
